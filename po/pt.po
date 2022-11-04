@@ -45,7 +45,7 @@ msgstr "Obter a lista de todos os terminais"
 
 #: ../remotinator.py:44
 msgid "Get the uuid of the current focused terminal"
-msgstr ""
+msgstr "Obter o UUID do terminal selecionado"
 
 #: ../remotinator.py:45
 msgid "Get the UUID of a parent window"
@@ -65,23 +65,23 @@ msgstr "Obter o título do separador superior"
 
 #: ../remotinator.py:49
 msgid "Set the title of a parent tab"
-msgstr ""
+msgstr "Define o título do separador superior"
 
 #: ../remotinator.py:50
 msgid "Set the background image"
-msgstr ""
+msgstr "Define a imagem de fundo"
 
 #: ../remotinator.py:51
 msgid "Set the background image for all terminals"
-msgstr ""
+msgstr "Define a imagem de fundo para todos os terminais"
 
 #: ../remotinator.py:52
 msgid "Switch current terminal profile"
-msgstr ""
+msgstr "Muda o perfil do terminal atual"
 
 #: ../remotinator.py:53
 msgid "Switch profile of all currently running terminals"
-msgstr ""
+msgstr "Muda o perfil de todos os terminais em execução"
 
 #: ../remotinator.py:70
 #, python-format
@@ -108,15 +108,15 @@ msgstr "UUID do terminal se não existir a variável TERMINATOR_UUID"
 
 #: ../remotinator.py:80
 msgid "Profile name to switch to"
-msgstr ""
+msgstr "Nome do perfil para o qual mudar"
 
 #: ../remotinator.py:83
 msgid "File to pass to command"
-msgstr ""
+msgstr "Nome do ficherio para passar ao commando"
 
 #: ../remotinator.py:86
 msgid "Command to run in new terminal"
-msgstr ""
+msgstr "Comando a executar num novo terminal"
 
 #: ../remotinator.py:89
 msgid "Tab name to set. Only used with \"set_tab_title\" command."
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../remotinator.py:92
 msgid "Tab name to set."
-msgstr ""
+msgstr "Nove do separador a defenir."
 
 #: ../data/terminator.desktop.in.h:1 ../data/terminator.appdata.xml.in.h:1
 #: ../terminatorlib/plugins/activitywatch.py:83
@@ -358,7 +358,7 @@ msgstr ""
 
 #: ../terminatorlib/optionparse.py:102
 msgid "List all layouts"
-msgstr ""
+msgstr "Listar todos os layouts"
 
 #: ../terminatorlib/plugins/activitywatch.py:54
 msgid "Watch for _activity"
